@@ -7,6 +7,7 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorJoinLines" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
   <action id="FindNext">
@@ -19,6 +20,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift ctrl j" />
+  </action>
   <action id="SendEOF" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
