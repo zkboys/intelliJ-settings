@@ -24,6 +24,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl j" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
