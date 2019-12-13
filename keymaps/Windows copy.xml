@@ -8,26 +8,6 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorJoinLines" />
-  <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="ctrl right" />
-  </action>
-  <action id="EditorLineEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift end" />
-    <keyboard-shortcut first-keystroke="shift ctrl right" />
-  </action>
-  <action id="EditorLineStart">
-    <keyboard-shortcut first-keystroke="home" />
-    <keyboard-shortcut first-keystroke="ctrl left" />
-  </action>
-  <action id="EditorLineStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift home" />
-    <keyboard-shortcut first-keystroke="shift ctrl left" />
-  </action>
-  <action id="EditorNextWord" />
-  <action id="EditorNextWordWithSelection" />
-  <action id="EditorPreviousWord" />
-  <action id="EditorPreviousWordWithSelection" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
   <action id="FindNext">
@@ -36,12 +16,9 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="GotoLine" />
-  <action id="IncrementWindowWidth" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
-  <action id="ResizeToolWindowLeft" />
-  <action id="ResizeToolWindowRight" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift ctrl j" />
