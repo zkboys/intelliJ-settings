@@ -8,6 +8,16 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorJoinLines" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
   <action id="FindNext">
