@@ -1,4 +1,19 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.120.68" />
+          <option name="userName" value="wen_jia@suixingpay.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.120.68/root/customer-card-wx-manage.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/workspace/suixingpay" />
+  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
       <list>
