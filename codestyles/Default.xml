@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="240" />
+  <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
