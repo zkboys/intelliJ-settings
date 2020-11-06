@@ -1,24 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="event" type="PLAIN_TEXT" />
-      <mapping pattern="decorators" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="event" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="decorators" type="PLAIN_TEXT" />
+      <mapping pattern="DraggableTabs" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="redux-middleware" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping pattern="DraggableTabs" type="PLAIN_TEXT" />
-      <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="jex" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="lsc" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="woff2" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="otf" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
