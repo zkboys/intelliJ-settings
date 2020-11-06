@@ -19,6 +19,7 @@
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="lsc" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="nginx" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
