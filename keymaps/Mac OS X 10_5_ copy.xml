@@ -26,6 +26,9 @@
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift ctrl meta f" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
