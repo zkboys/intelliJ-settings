@@ -110,6 +110,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.css">
           <value>
             <plugin>
@@ -119,12 +127,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.csv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.dcx">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ddl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
@@ -386,6 +410,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ids">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
@@ -981,6 +1013,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.sql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.styl">
           <value>
             <plugin>
@@ -1077,6 +1117,14 @@
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tsv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
@@ -1587,6 +1635,11 @@
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="DatabaseScript">
+                    <value>
+                      <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
                   <entry key="FirefoxRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
@@ -1655,6 +1708,16 @@
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
+                    </value>
+                  </entry>
+                  <entry key="TSqltConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="UtPlSqlConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
                     </value>
                   </entry>
                   <entry key="XSLT">
