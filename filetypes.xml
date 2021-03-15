@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Affix" type="AUTO_DETECTED" />
       <mapping pattern="Modal" type="AUTO_DETECTED" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="event" type="PLAIN_TEXT" />
