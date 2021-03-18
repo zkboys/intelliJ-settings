@@ -18,6 +18,10 @@
           <option name="url" value="git@192.168.120.68:root/xlm-ams-front.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.120.68:root/merch-front.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace/suixingpay" />
