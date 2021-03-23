@@ -896,6 +896,30 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.qml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.zxy.ijplugin.wechat-miniprogram" />
+              <option name="myPluginName" value="Wechat mini program support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.qs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.zxy.ijplugin.wechat-miniprogram" />
+              <option name="myPluginName" value="Wechat mini program support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.qss">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.zxy.ijplugin.wechat-miniprogram" />
+              <option name="myPluginName" value="Wechat mini program support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.regexp">
           <value>
             <plugin>
@@ -1206,6 +1230,30 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wxml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.zxy.ijplugin.wechat-miniprogram" />
+              <option name="myPluginName" value="Wechat mini program support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wxs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.zxy.ijplugin.wechat-miniprogram" />
+              <option name="myPluginName" value="Wechat mini program support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wxss">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.zxy.ijplugin.wechat-miniprogram" />
+              <option name="myPluginName" value="Wechat mini program support" />
             </plugin>
           </value>
         </entry>
