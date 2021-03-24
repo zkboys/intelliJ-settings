@@ -22,6 +22,7 @@
       <mapping ext="lsc" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx" />
+      <removed_mapping ext="wxml" approved="true" type="HTML" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
