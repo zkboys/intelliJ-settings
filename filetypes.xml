@@ -20,6 +20,7 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
+      <mapping ext="shell" type="PLAIN_TEXT" />
       <mapping ext="jex" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="lsc" type="PLAIN_TEXT" />
