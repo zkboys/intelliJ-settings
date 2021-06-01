@@ -4,8 +4,8 @@
       <mapping pattern="getConfig" type="AUTO_DETECTED" />
       <mapping pattern="DecryptionModal" type="AUTO_DETECTED" />
       <mapping pattern="Affix" type="AUTO_DETECTED" />
-      <mapping pattern="common-hoc" type="AUTO_DETECTED" />
       <mapping pattern="Modal" type="AUTO_DETECTED" />
+      <mapping pattern="common-hoc" type="AUTO_DETECTED" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="event" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
