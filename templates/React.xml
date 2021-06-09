@@ -69,25 +69,25 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="uget" value="const {data, run: fetch$1$} = props.ajax.useGet('/');" toReformat="false" toShortenFQNames="true">
+  <template name="uget" value="const {data, run: fetch$1$} = props.ajax.useGet('/');" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="upost" value="const {run: save$1$} = props.ajax.usePost('/', null, {setLoading, successTip: '添加成功！'});" toReformat="false" toShortenFQNames="true">
+  <template name="upost" value="const {run: save$1$} = props.ajax.usePost('/', null, {setLoading, successTip: '添加成功！'});" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="uput" value="const {run: update$1$} = props.ajax.usePut('/', null, {setLoading, successTip: '修改成功！'});" toReformat="false" toShortenFQNames="true">
+  <template name="uput" value="const {run: update$1$} = props.ajax.usePut('/', null, {setLoading, successTip: '修改成功！'});" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="udel" value="const {run: delete$1$} = props.ajax.useDel('/', null, {setLoading, successTip: '删除成功！'});" toReformat="false" toShortenFQNames="true">
+  <template name="udel" value="const {run: delete$1$} = props.ajax.useDel('/', null, {setLoading, successTip: '删除成功！'});" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
