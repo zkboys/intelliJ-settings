@@ -103,4 +103,30 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="ur" value="const $1$ = useRef(null);" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="hp" value="import {PageContent} from '@ra-lib/components';&#10;import config from 'src/commons/config-hoc';&#10;&#10;export default config({&#10;    path: '/$1$',&#10;})(function $2$(props) {&#10;&#10;    return (&#10;        &lt;PageContent&gt;&#10;            $2$&#10;        &lt;/PageContent&gt;&#10;    );&#10;});&#10;" description="hooks 页面" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="hm" value="import {ModalContent} from '@ra-lib/components';&#10;import config from 'src/commons/config-hoc';&#10;&#10;export default config({&#10;    model: '$1$'&#10;})(function $2$(props) {&#10;    const {onOk} = props;&#10;    function handleOk(){&#10;        onOk();&#10;    }&#10;    &#10;    return (&#10;        &lt;ModalContent&#10;            onOk={handleOk}&#10;        &gt;&#10;            $2$&#10;        &lt;/ModalContent&gt;&#10;    );&#10;});&#10;" description="hooks 弹框" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="hc" value="import PropTypes from 'prop-types';&#10;&#10;$1$.propTypes = {};&#10;$1$.defaultProps = {};&#10;&#10;export default function $1$(props) {&#10;&#10;    return (&#10;        &lt;div&gt;&#10;            &#10;        &lt;/div&gt;&#10;    );&#10;}&#10;" description="hooks 组件" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
