@@ -129,4 +129,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="sn" value="&lt;FormItem shouldUpdate noStyle&gt;&#10;    {({getFieldValue}) =&gt; {&#10;        const $1$ = getFieldValue('$1$');&#10;    }}&#10;&lt;/FormItem&gt;" description="FormItem shouldUpdate noStyle" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
