@@ -62,9 +62,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="us" value="const [$1$, set$2$] = useState($END$);" description="useState" toReformat="false" toShortenFQNames="true">
-    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="us" value="const [$NAME$, set$SET_NAME$] = useState($END$);" description="useState" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SET_NAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -109,9 +109,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="hp" value="import {PageContent} from '@ra-lib/admin';&#10;import config from 'src/commons/config-hoc';&#10;&#10;export default config({&#10;    path: '/$1$',&#10;})(function $2$(props) {&#10;&#10;    return (&#10;        &lt;PageContent&gt;&#10;            $2$&#10;        &lt;/PageContent&gt;&#10;    );&#10;});&#10;" description="hooks 页面" toReformat="false" toShortenFQNames="true">
-    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="hp" value="import {PageContent} from '@ra-lib/admin';&#10;import config from 'src/commons/config-hoc';&#10;&#10;export default config({&#10;    path: '/$path$',&#10;})(function $ComponentName$(props) {&#10;&#10;    return (&#10;        &lt;PageContent&gt;&#10;            $ComponentName$&#10;        &lt;/PageContent&gt;&#10;    );&#10;});&#10;" description="hooks 页面" toReformat="false" toShortenFQNames="true">
+    <variable name="path" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ComponentName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
