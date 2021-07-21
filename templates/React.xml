@@ -116,7 +116,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="hm" value="import {ModalContent} from '@ra-lib/admin';&#10;import config from 'src/commons/config-hoc';&#10;&#10;export default config({&#10;    model: '$1$'&#10;})(function $2$(props) {&#10;    const {onOk} = props;&#10;    function handleOk(){&#10;        onOk();&#10;    }&#10;    &#10;    return (&#10;        &lt;ModalContent&#10;            onOk={handleOk}&#10;        &gt;&#10;            $2$&#10;        &lt;/ModalContent&gt;&#10;    );&#10;});&#10;" description="hooks 弹框" toReformat="false" toShortenFQNames="true">
+  <template name="hm" value="import {ModalContent} from '@ra-lib/admin';&#10;import config from 'src/commons/config-hoc';&#10;&#10;export default config({&#10;    modal: '$1$'&#10;})(function $2$(props) {&#10;    const {onOk, onCancel} = props;&#10;    function handleOk(){&#10;        onOk();&#10;    }&#10;    &#10;    return (&#10;        &lt;ModalContent&#10;            onOk={handleOk}&#10;            onCancel={onCancel}&#10;        &gt;&#10;            $2$&#10;        &lt;/ModalContent&gt;&#10;    );&#10;});&#10;" description="hooks 弹框" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
