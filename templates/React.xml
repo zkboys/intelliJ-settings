@@ -135,4 +135,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="uf" value="const [form] = Form.useForm();" description="antd useForm" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+    </context>
+  </template>
 </templateSet>
