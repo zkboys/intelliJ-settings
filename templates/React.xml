@@ -118,7 +118,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="hc" value="import PropTypes from 'prop-types';&#10;&#10;$1$.propTypes = {};&#10;$1$.defaultProps = {};&#10;&#10;export default function $1$(props) {&#10;&#10;    return (&#10;        &lt;div&gt;&#10;            &#10;        &lt;/div&gt;&#10;    );&#10;}&#10;" description="hooks 组件" toReformat="false" toShortenFQNames="true">
+  <template name="hc" value="import PropTypes from 'prop-types';&#10;&#10;function $1$(props) {&#10;&#10;    return (&#10;        &lt;div&gt;&#10;            &#10;        &lt;/div&gt;&#10;    );&#10;}&#10;&#10;$1$.propTypes = {};&#10;$1$.defaultProps = {};&#10;&#10;export default $1$&#10;&#10;" description="hooks 组件" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
