@@ -25,6 +25,7 @@
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="jex" type="PLAIN_TEXT" />
       <mapping ext="lsc" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <removed_mapping ext="wxml" approved="true" type="HTML" />
       <mapping pattern="ignore" type="Git exclude file" />
