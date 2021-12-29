@@ -34,6 +34,7 @@
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <removed_mapping ext="wxml" approved="true" type="HTML" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
