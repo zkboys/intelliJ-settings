@@ -6,12 +6,6 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://172.16.60.247:3306</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="前端MySql 172.16.175.166" uuid="2ffe39e0-7d96-4a1a-ae10-d24594c37b0e">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://172.16.175.166:3306/</jdbc-url>
-    </data-source>
     <data-source source="LOCAL" name="localhost" uuid="76606e3f-4300-4f14-a7c0-8430b6df6a3a">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
