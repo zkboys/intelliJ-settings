@@ -10,6 +10,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="redux-middleware" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="hsx" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
