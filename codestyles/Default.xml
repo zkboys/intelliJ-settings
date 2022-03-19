@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="240" />
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <HTMLCodeStyleSettings>
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </HTMLCodeStyleSettings>
