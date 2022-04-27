@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="1979" />
-    <option name="newTranslationDialogY" value="682" />
+    <option name="newTranslationDialogX" value="2128" />
+    <option name="newTranslationDialogY" value="314" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="deploy" />
+      <item value="build" />
+      <item value="交互" />
+      <item value="jia" />
+      <item value="j" />
+      <item value="forbid Audit But" />
       <item value="交易户均" />
       <item value="交易笔数" />
       <item value="笔数" />
@@ -18,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
