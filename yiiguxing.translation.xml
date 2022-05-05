@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="314" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="汇总余额查询" />
       <item value="Constraints" />
       <item value="到账流水号" />
       <item value="还款通知" />
@@ -27,7 +28,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
+        <entry key="CHINESE" value="24" />
         <entry key="ENGLISH" value="24" />
       </map>
     </option>
