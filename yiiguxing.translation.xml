@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="314" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Constraints" />
       <item value="到账流水号" />
       <item value="还款通知" />
       <item value="deploy" />
@@ -27,11 +28,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650961136178" />
+    <option name="lastTrimTime" value="1651721697793" />
   </component>
 </application>
