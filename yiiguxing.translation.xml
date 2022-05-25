@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="314" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="退款" />
       <item value="驳回" />
       <item value="批准" />
       <item value="新增权限成功" />
@@ -35,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
