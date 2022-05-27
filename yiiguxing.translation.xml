@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="314" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="instruction" />
       <item value="标价方式" />
       <item value="分组" />
       <item value="退款" />
@@ -39,7 +40,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="ENGLISH" value="39" />
       </map>
     </option>
   </component>
