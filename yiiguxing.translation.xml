@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="314" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="artifacts" />
       <item value="研发" />
       <item value="研发中心" />
       <item value="Error" />
@@ -50,7 +51,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
