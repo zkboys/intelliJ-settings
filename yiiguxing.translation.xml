@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="541" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="分公司交易金额" />
+      <item value="横向" />
       <item value="衰退" />
       <item value="回流" />
       <item value="激活" />
@@ -52,17 +54,15 @@
       <item value="Constraints" />
       <item value="到账流水号" />
       <item value="还款通知" />
-      <item value="deploy" />
-      <item value="build" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="72" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654586933034" />
+    <option name="lastTrimTime" value="1655105250906" />
   </component>
 </application>
