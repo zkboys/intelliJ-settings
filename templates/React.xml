@@ -40,11 +40,6 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="handleSubmit" value="handleSubmit = (e) =&gt; {&#10;    e &amp;&amp; e.preventDefault();&#10;&#10;    if (this.state.loading) return;&#10;        &#10;    this.props.form.validateFieldsAndScroll((err, values) =&gt; {&#10;        if (err) return;&#10;&#10;        const params = values;&#10;        this.setState({loading: true});&#10;        this.props.ajax.post('', params)&#10;            .then(res =&gt; {&#10;                console.log(res);&#10;            })&#10;            .finally(() =&gt; this.setState({loading: false}));&#10;    })&#10;};" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
   <template name="rcc" value="import React, { Component } from 'react';&#10;&#10;export default class $TM_FILENAME_BASE$ extends Component {&#10; render() {&#10;  return (&#10;   &lt;div&gt;&#10;    $END$&#10;   &lt;/div&gt;&#10;  );&#10; }&#10;}&#10;" description="Creates a React component class with ES6 module system" toReformat="true" toShortenFQNames="true">
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
@@ -62,9 +57,92 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ust" value="const [$1$, set$2$] = useState($END$);" description="useState" toReformat="false" toShortenFQNames="true">
+  <template name="us" value="const [$NAME$, set$SET_NAME$] = useState($END$);" description="useState" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SET_NAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="uget" value="const {data, run: fetch$1$} = props.ajax.useGet('/');" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="upost" value="const {run: save$1$} = props.ajax.usePost('/', null, {setLoading, successTip: '添加成功！'});" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="uput" value="const {run: update$1$} = props.ajax.usePut('/', null, {setLoading, successTip: '修改成功！'});" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="udel" value="const {run: delete$1$} = props.ajax.useDel('/', null, {setLoading, successTip: '删除成功！'});" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="p" value="const {$1$} = props;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="false" />
+      <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="ur" value="const $1$ = useRef(null);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="hp" value="import {PageContent} from '@ra-lib/admin';&#10;import config from 'src/commons/config-hoc';&#10;&#10;export default config({&#10;    path: '/$path$',&#10;})(function $ComponentName$(props) {&#10;&#10;    return (&#10;        &lt;PageContent&gt;&#10;            $ComponentName$&#10;        &lt;/PageContent&gt;&#10;    );&#10;});&#10;" description="hooks 页面" toReformat="false" toShortenFQNames="true">
+    <variable name="path" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ComponentName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="hm" value="import {ModalContent} from '@ra-lib/admin';&#10;import config from 'src/commons/config-hoc';&#10;&#10;export default config({&#10;    modal: '$1$'&#10;})(function $2$(props) {&#10;    const {onOk, onCancel} = props;&#10;    function handleOk(){&#10;        onOk();&#10;    }&#10;    &#10;    return (&#10;        &lt;ModalContent&#10;            onOk={handleOk}&#10;            onCancel={onCancel}&#10;        &gt;&#10;            $2$&#10;        &lt;/ModalContent&gt;&#10;    );&#10;});&#10;" description="hooks 弹框" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="hc" value="import PropTypes from 'prop-types';&#10;&#10;function $1$(props) {&#10;&#10;    return (&#10;        &lt;div&gt;&#10;            &#10;        &lt;/div&gt;&#10;    );&#10;}&#10;&#10;$1$.propTypes = {};&#10;$1$.defaultProps = {};&#10;&#10;export default $1$&#10;&#10;" description="hooks 组件" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="sn" value="&lt;FormItem shouldUpdate noStyle&gt;&#10;    {({getFieldValue}) =&gt; {&#10;        const $1$ = getFieldValue('$1$');&#10;    }}&#10;&lt;/FormItem&gt;" description="FormItem shouldUpdate noStyle" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="uf" value="const [form] = Form.useForm();" description="antd useForm" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+    </context>
+  </template>
+  <template name="uc" value="const $1$ = useCallback(() =&gt; {&#10;}, []);" description="useCallback" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+    </context>
+  </template>
+  <template name="uca" value="const $1$ = useCallback(async () =&gt; {&#10;}, []);" description="useCallback async" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>

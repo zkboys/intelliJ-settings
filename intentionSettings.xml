@@ -1,6 +1,5 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/Introduce local variable" />
-    <ignoreAction name="XML/Remove tag" />
   </component>
 </application>
