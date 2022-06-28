@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="541" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="遮罩" />
       <item value="图层" />
       <item value="内置" />
       <item value="分公司达标数" />
@@ -53,12 +54,11 @@
       <item value="批准" />
       <item value="新增权限成功" />
       <item value="笔数" />
-      <item value="批量还款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="80" />
       </map>
     </option>
   </component>
