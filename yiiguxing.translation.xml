@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="541" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set" />
       <item value="私有" />
       <item value="多个" />
       <item value="wonderland" />
@@ -53,12 +54,11 @@
       <item value="研发" />
       <item value="研发中心" />
       <item value="Error" />
-      <item value="逻辑" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
