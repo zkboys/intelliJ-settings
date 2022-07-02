@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="25" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="自动刷新" />
+      <item value="间隔" />
+      <item value="jian'ge" />
+      <item value="jian" />
+      <item value="转换" />
+      <item value="zhuan" />
       <item value="model" />
       <item value="modal" />
       <item value="正常" />
@@ -49,17 +55,11 @@
       <item value="目标用户新增数" />
       <item value="交易金额" />
       <item value="统计" />
-      <item value="金额" />
-      <item value="大盘" />
-      <item value="slice" />
-      <item value="必赢之战月报" />
-      <item value="组合" />
-      <item value="规则" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
