@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2672" />
-    <option name="newTranslationDialogY" value="541" />
+    <option name="newTranslationDialogX" value="832" />
+    <option name="newTranslationDialogY" value="641" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="exact" />
+      <item value="精确" />
       <item value="set" />
       <item value="私有" />
       <item value="多个" />
@@ -52,19 +54,17 @@
       <item value="cast" />
       <item value="artifacts" />
       <item value="研发" />
-      <item value="研发中心" />
-      <item value="Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="94" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656296268948" />
+    <option name="lastTrimTime" value="1656769081883" />
   </component>
 </application>
