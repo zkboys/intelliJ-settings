@@ -1,7 +1,8 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="832" />
-    <option name="newTranslationDialogY" value="641" />
+    <option name="newTranslationDialogHeight" value="134" />
+    <option name="newTranslationDialogX" value="840" />
+    <option name="newTranslationDialogY" value="-1" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
       <item value="exact" />
