@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="25" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="server" />
+      <item value="后端" />
       <item value="调试" />
       <item value="开启" />
       <item value="自动刷新" />
@@ -53,13 +55,11 @@
       <item value="活跃" />
       <item value="留存" />
       <item value="占⽐" />
-      <item value="当⽉激活⽬标⽤户占⽐" />
-      <item value="目标用户新增数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
