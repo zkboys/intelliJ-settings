@@ -1,47 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="134" />
-    <option name="newTranslationDialogX" value="840" />
-    <option name="newTranslationDialogY" value="25" />
+    <option name="newTranslationDialogX" value="2672" />
+    <option name="newTranslationDialogY" value="541" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="server" />
-      <item value="后端" />
-      <item value="调试" />
-      <item value="开启" />
-      <item value="自动刷新" />
-      <item value="间隔" />
-      <item value="jian'ge" />
-      <item value="jian" />
-      <item value="转换" />
-      <item value="zhuan" />
-      <item value="model" />
-      <item value="modal" />
-      <item value="正常" />
-      <item value="normal" />
-      <item value="api 拉取" />
-      <item value="拉取" />
-      <item value="datasource" />
-      <item value="data" />
-      <item value="exact" />
-      <item value="精确" />
-      <item value="set" />
-      <item value="私有" />
-      <item value="多个" />
-      <item value="wonderland" />
-      <item value="warm" />
-      <item value="walden" />
-      <item value="vintage" />
-      <item value="sugar" />
-      <item value="shine" />
-      <item value="roma" />
-      <item value="infographic" />
-      <item value="cold" />
-      <item value="chalk" />
-      <item value="blue" />
-      <item value="aipage" />
-      <item value="light" />
-      <item value="essos" />
+      <item value="锚点" />
+      <item value="装饰" />
+      <item value="遮罩" />
+      <item value="图层" />
       <item value="内置" />
       <item value="分公司达标数" />
       <item value="分公司设备未激活数" />
@@ -55,17 +21,48 @@
       <item value="活跃" />
       <item value="留存" />
       <item value="占⽐" />
+      <item value="当⽉激活⽬标⽤户占⽐" />
+      <item value="目标用户新增数" />
+      <item value="交易金额" />
+      <item value="统计" />
+      <item value="金额" />
+      <item value="大盘" />
+      <item value="slice" />
+      <item value="必赢之战月报" />
+      <item value="组合" />
+      <item value="规则" />
+      <item value="z" />
+      <item value="provide" />
+      <item value="should" />
+      <item value="综合" />
+      <item value="技术" />
+      <item value="cast" />
+      <item value="artifacts" />
+      <item value="研发" />
+      <item value="研发中心" />
+      <item value="Error" />
+      <item value="逻辑" />
+      <item value="转出" />
+      <item value="认证" />
+      <item value="归属国家" />
+      <item value="工作日规则" />
+      <item value="是否节假日" />
+      <item value="operation" />
+      <item value="instruction" />
+      <item value="标价方式" />
+      <item value="分组" />
+      <item value="退款" />
+      <item value="驳回" />
+      <item value="批准" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
-        <entry key="SPANISH" value="1" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="82" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656769081883" />
+    <option name="lastTrimTime" value="1656296268948" />
   </component>
 </application>
