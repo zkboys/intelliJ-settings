@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="541" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="undo" />
+      <item value="redo" />
       <item value="releaser" />
       <item value="releases" />
       <item value="发布" />
@@ -52,13 +54,11 @@
       <item value="工作日规则" />
       <item value="是否节假日" />
       <item value="operation" />
-      <item value="instruction" />
-      <item value="标价方式" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
