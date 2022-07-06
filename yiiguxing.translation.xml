@@ -4,13 +4,8 @@
     <option name="newTranslationDialogY" value="541" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Redo" />
-      <item value="undo" />
-      <item value="redo" />
-      <item value="releaser" />
-      <item value="releases" />
-      <item value="发布" />
-      <item value="size Calculation" />
+      <item value="沙箱" />
+      <item value="变量" />
       <item value="锚点" />
       <item value="装饰" />
       <item value="遮罩" />
@@ -54,16 +49,20 @@
       <item value="归属国家" />
       <item value="工作日规则" />
       <item value="是否节假日" />
+      <item value="operation" />
+      <item value="instruction" />
+      <item value="标价方式" />
+      <item value="分组" />
+      <item value="退款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="84" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656842277177" />
+    <option name="lastTrimTime" value="1656985258842" />
   </component>
 </application>
