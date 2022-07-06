@@ -52,15 +52,14 @@
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="ue" value="use$END$Effect(() =&gt; {&#10;    (async () =&gt; {&#10;        &#10;    })();&#10;}, []);" description="useEffect" toReformat="false" toShortenFQNames="true">
+  <template name="ue" value="useEffect(() =&gt; {&#10;    (async () =&gt; {&#10;        &#10;    })();&#10;}, [$END$]);" description="useEffect" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="us" value="const [$NAME$, set$SET_NAME$] = use$END$State($1$);" description="useState" toReformat="false" toShortenFQNames="true">
+  <template name="us" value="const [$NAME$, set$SET_NAME$] = useState($END$);" description="useState" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SET_NAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
-    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -136,7 +135,7 @@
       <option name="ECMAScript6" value="true" />
     </context>
   </template>
-  <template name="uc" value="const $1$ = use$END$Callback(() =&gt; {&#10;}, []);" description="useCallback" toReformat="false" toShortenFQNames="true">
+  <template name="uc" value="const $1$ = useCallback(() =&gt; {&#10;}, []);" description="useCallback" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="ECMAScript6" value="true" />
