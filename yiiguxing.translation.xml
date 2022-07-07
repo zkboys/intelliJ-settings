@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="392" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="坐标轴" />
       <item value="系列" />
       <item value="沙箱" />
       <item value="变量" />
@@ -53,12 +54,11 @@
       <item value="operation" />
       <item value="instruction" />
       <item value="标价方式" />
-      <item value="分组" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="90" />
       </map>
     </option>
   </component>
