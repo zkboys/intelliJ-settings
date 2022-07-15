@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="392" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="横屏" />
       <item value="万" />
       <item value="后缀" />
       <item value="reversal" />
@@ -53,12 +54,11 @@
       <item value="provide" />
       <item value="should" />
       <item value="综合" />
-      <item value="技术" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="102" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
