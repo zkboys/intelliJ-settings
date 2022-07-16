@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="392" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ratio" />
       <item value="decimal" />
       <item value="前缀" />
       <item value="环比" />
@@ -53,12 +54,11 @@
       <item value="should" />
       <item value="综合" />
       <item value="技术" />
-      <item value="cast" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
       </map>
     </option>
   </component>
