@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="392" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Wave Effect" />
       <item value="放大" />
       <item value="横屏" />
       <item value="万" />
@@ -53,12 +54,11 @@
       <item value="规则" />
       <item value="z" />
       <item value="provide" />
-      <item value="should" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
