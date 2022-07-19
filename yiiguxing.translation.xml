@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="392" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="摆动幅度" />
+      <item value="幅度" />
+      <item value="销毁" />
       <item value="distance" />
       <item value="素材" />
       <item value="圆形" />
@@ -51,14 +54,11 @@
       <item value="大盘" />
       <item value="slice" />
       <item value="必赢之战月报" />
-      <item value="组合" />
-      <item value="规则" />
-      <item value="z" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="107" />
       </map>
     </option>
   </component>
