@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="392" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="素材" />
       <item value="圆形" />
       <item value="菱形" />
       <item value="ratio" />
@@ -53,16 +54,15 @@
       <item value="规则" />
       <item value="z" />
       <item value="provide" />
-      <item value="should" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="103" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657731029106" />
+    <option name="lastTrimTime" value="1658237797184" />
   </component>
 </application>
