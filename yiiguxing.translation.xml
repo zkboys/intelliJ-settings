@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="392" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="locked" />
       <item value="texture" />
       <item value="uniforms" />
       <item value="spread" />
@@ -53,12 +54,11 @@
       <item value="目标用户新增数" />
       <item value="交易金额" />
       <item value="统计" />
-      <item value="金额" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
