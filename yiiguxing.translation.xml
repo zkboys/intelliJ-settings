@@ -4,26 +4,30 @@
     <option name="newTranslationDialogY" value="392" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="摆动幅度" />
-      <item value="幅度" />
-      <item value="销毁" />
-      <item value="distance" />
-      <item value="素材" />
-      <item value="圆形" />
-      <item value="菱形" />
-      <item value="ratio" />
-      <item value="decimal" />
-      <item value="前缀" />
-      <item value="环比" />
-      <item value="核心" />
-      <item value="indicator" />
-      <item value="indicators" />
-      <item value="核心指标" />
-      <item value="指标" />
-      <item value="quota" />
-      <item value="引号" />
-      <item value="换行" />
-      <item value="换行标识" />
+      <item value="locked" />
+      <item value="texture" />
+      <item value="uniforms" />
+      <item value="spread" />
+      <item value="wave-effect" />
+      <item value="shader" />
+      <item value="program" />
+      <item value="shader-program" />
+      <item value="Wave Effect" />
+      <item value="放大" />
+      <item value="横屏" />
+      <item value="万" />
+      <item value="后缀" />
+      <item value="reversal" />
+      <item value="翻转" />
+      <item value="eduardo" />
+      <item value="dark mushroom" />
+      <item value="dark fresh cut" />
+      <item value="dark digerati" />
+      <item value="dark bold" />
+      <item value="carp" />
+      <item value="caravan" />
+      <item value="bee inspired" />
+      <item value="azul" />
       <item value="一半" />
       <item value="坐标轴" />
       <item value="系列" />
@@ -50,19 +54,17 @@
       <item value="目标用户新增数" />
       <item value="交易金额" />
       <item value="统计" />
-      <item value="金额" />
-      <item value="大盘" />
-      <item value="slice" />
-      <item value="必赢之战月报" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
+        <entry key="PORTUGUESE" value="2" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658237797184" />
+    <option name="lastTrimTime" value="1658144884872" />
   </component>
 </application>
