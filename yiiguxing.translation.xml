@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="687" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="聚合" />
+      <item value="周" />
+      <item value="星期" />
+      <item value="季度" />
       <item value="日历" />
       <item value="可重复" />
       <item value="重复" />
@@ -50,15 +54,11 @@
       <item value="分公司设备未激活数" />
       <item value="分公司商户激活数" />
       <item value="分公司设备订购数" />
-      <item value="分公司交易金额" />
-      <item value="横向" />
-      <item value="衰退" />
-      <item value="回流" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="132" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
