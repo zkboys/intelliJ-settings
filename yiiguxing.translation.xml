@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2655" />
-    <option name="newTranslationDialogY" value="652" />
+    <option name="newTranslationDialogX" value="2247" />
+    <option name="newTranslationDialogY" value="687" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="日历" />
       <item value="可重复" />
       <item value="重复" />
       <item value="acceptor" />
@@ -53,7 +54,6 @@
       <item value="横向" />
       <item value="衰退" />
       <item value="回流" />
-      <item value="激活" />
     </histories>
     <option name="languageScores">
       <map>
