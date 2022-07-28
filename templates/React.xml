@@ -130,7 +130,8 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="uf" value="const [form] = Form.useForm();" description="antd useForm" toReformat="false" toShortenFQNames="true">
+  <template name="uf" value="const $1$ = useFunction(() =&gt; {&#10;});" description="antd useForm" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="ECMAScript6" value="true" />
     </context>

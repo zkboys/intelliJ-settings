@@ -1,27 +1,25 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2360" />
-    <option name="newTranslationDialogY" value="392" />
+    <option name="newTranslationDialogX" value="2247" />
+    <option name="newTranslationDialogY" value="687" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="小数位数" />
-      <item value="跟随" />
-      <item value="图形上展示数据" />
-      <item value="快速表计算" />
-      <item value="移动计算" />
-      <item value="百分位" />
-      <item value="排名" />
-      <item value="总额百分比" />
-      <item value="环比" />
-      <item value="百分比" />
-      <item value="差异" />
-      <item value="累计和" />
+      <item value="解析" />
+      <item value="可枚举" />
+      <item value="类型转换" />
+      <item value="类型" />
       <item value="聚合" />
-      <item value="聚合方式" />
-      <item value="去重计数" />
-      <item value="最大值" />
-      <item value="均值" />
-      <item value="求和" />
+      <item value="周" />
+      <item value="星期" />
+      <item value="季度" />
+      <item value="日历" />
+      <item value="可重复" />
+      <item value="重复" />
+      <item value="acceptor" />
+      <item value="接受" />
+      <item value="接受者" />
+      <item value="度量" />
+      <item value="维度" />
       <item value="locked" />
       <item value="texture" />
       <item value="uniforms" />
@@ -54,17 +52,19 @@
       <item value="锚点" />
       <item value="装饰" />
       <item value="遮罩" />
+      <item value="图层" />
+      <item value="内置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="141" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658144884872" />
+    <option name="lastTrimTime" value="1658887782751" />
   </component>
 </application>
