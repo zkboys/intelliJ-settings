@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="687" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="合规" />
       <item value="电子签购单" />
       <item value="单位" />
       <item value="班次长度" />
@@ -53,12 +54,11 @@
       <item value="一半" />
       <item value="坐标轴" />
       <item value="系列" />
-      <item value="沙箱" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="148" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
