@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="687" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="别名就是node version" />
       <item value="刷新频次" />
       <item value="归属" />
       <item value="审核" />
@@ -53,12 +54,11 @@
       <item value="Wave Effect" />
       <item value="放大" />
       <item value="横屏" />
-      <item value="万" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="179" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
