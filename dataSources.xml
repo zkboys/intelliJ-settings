@@ -6,7 +6,7 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="架构测试MySql-22.50.6.12" uuid="f505a43b-28aa-4253-bf91-c7b8a87a2f1f">
+    <data-source source="LOCAL" name="架构测试-22.50.6.12" uuid="0272f2b4-489e-41ba-ac6f-86c9a34a07a5">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
