@@ -4,6 +4,28 @@
     <option name="newTranslationDialogY" value="687" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="动态" />
+      <item value="wechat message url" />
+      <item value="通知" />
+      <item value="入账退款" />
+      <item value="别名就是node version" />
+      <item value="刷新频次" />
+      <item value="归属" />
+      <item value="审核" />
+      <item value="委托" />
+      <item value="签收" />
+      <item value="批量" />
+      <item value="高级" />
+      <item value="字典" />
+      <item value="字典管理" />
+      <item value="zi" />
+      <item value="工单流程管理" />
+      <item value="工作流程管理" />
+      <item value="process-manage" />
+      <item value="流程管理" />
+      <item value="工作台" />
+      <item value="合规" />
+      <item value="电子签购单" />
       <item value="单位" />
       <item value="班次长度" />
       <item value="轮循周期" />
@@ -32,39 +54,17 @@
       <item value="wave-effect" />
       <item value="shader" />
       <item value="program" />
-      <item value="shader-program" />
-      <item value="Wave Effect" />
-      <item value="放大" />
-      <item value="横屏" />
-      <item value="万" />
-      <item value="后缀" />
-      <item value="reversal" />
-      <item value="翻转" />
-      <item value="eduardo" />
-      <item value="dark mushroom" />
-      <item value="dark fresh cut" />
-      <item value="dark digerati" />
-      <item value="dark bold" />
-      <item value="carp" />
-      <item value="caravan" />
-      <item value="bee inspired" />
-      <item value="azul" />
-      <item value="一半" />
-      <item value="坐标轴" />
-      <item value="系列" />
-      <item value="沙箱" />
-      <item value="变量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="182" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659421846739" />
+    <option name="lastTrimTime" value="1661773899659" />
   </component>
 </application>
