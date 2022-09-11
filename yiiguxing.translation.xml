@@ -4,17 +4,6 @@
     <option name="newTranslationDialogY" value="687" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="已延期" />
-      <item value="未分配" />
-      <item value="未完成" />
-      <item value="developer" />
-      <item value="进度" />
-      <item value="工时" />
-      <item value="开发人员" />
-      <item value="产品经理" />
-      <item value="需求文档" />
-      <item value="需求" />
-      <item value="负责人" />
       <item value="动态" />
       <item value="wechat message url" />
       <item value="通知" />
@@ -54,17 +43,28 @@
       <item value="可重复" />
       <item value="重复" />
       <item value="acceptor" />
+      <item value="接受" />
+      <item value="接受者" />
+      <item value="度量" />
+      <item value="维度" />
+      <item value="locked" />
+      <item value="texture" />
+      <item value="uniforms" />
+      <item value="spread" />
+      <item value="wave-effect" />
+      <item value="shader" />
+      <item value="program" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="182" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662216832651" />
+    <option name="lastTrimTime" value="1661773899659" />
   </component>
 </application>
