@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="687" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="原型文档" />
+      <item value="原型" />
       <item value="holidays" />
       <item value="多选" />
       <item value="周报" />
@@ -52,19 +54,17 @@
       <item value="度量" />
       <item value="维度" />
       <item value="locked" />
-      <item value="texture" />
-      <item value="uniforms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="187" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662449315449" />
+    <option name="lastTrimTime" value="1663041382180" />
   </component>
 </application>
