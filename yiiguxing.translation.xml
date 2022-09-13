@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="交易审核" />
       <item value="archetype" />
       <item value="原型" />
       <item value="原型文档" />
@@ -53,12 +54,11 @@
       <item value="接受" />
       <item value="接受者" />
       <item value="度量" />
-      <item value="维度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="190" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
