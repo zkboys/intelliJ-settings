@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="终审" />
+      <item value="复审" />
+      <item value="初审" />
       <item value="post man" />
       <item value="人工审核" />
       <item value="交易审核" />
@@ -51,14 +54,11 @@
       <item value="季度" />
       <item value="日历" />
       <item value="可重复" />
-      <item value="重复" />
-      <item value="acceptor" />
-      <item value="接受" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="194" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
