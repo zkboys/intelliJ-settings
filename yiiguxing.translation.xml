@@ -4,15 +4,10 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="审核" />
       <item value="快捷请求" />
-      <item value="数据模型" />
-      <item value="概览" />
-      <item value="团队" />
-      <item value="非必须" />
-      <item value="兄弟" />
-      <item value="相邻" />
-      <item value="项目" />
-      <item value="接口" />
+      <item value="折叠" />
+      <item value="收起" />
       <item value="资料" />
       <item value="贸易订单" />
       <item value="客户信息" />
@@ -38,7 +33,6 @@
       <item value="别名就是node version" />
       <item value="刷新频次" />
       <item value="归属" />
-      <item value="审核" />
       <item value="委托" />
       <item value="签收" />
       <item value="批量" />
@@ -54,17 +48,23 @@
       <item value="合规" />
       <item value="电子签购单" />
       <item value="单位" />
+      <item value="班次长度" />
+      <item value="轮循周期" />
+      <item value="排班" />
+      <item value="Identifier" />
+      <item value="解析" />
+      <item value="可枚举" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="203" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663491297857" />
+    <option name="lastTrimTime" value="1663550774082" />
   </component>
 </application>
