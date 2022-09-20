@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="368" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="用例" />
       <item value="责任人" />
       <item value="审核" />
       <item value="快捷请求" />
@@ -53,12 +54,11 @@
       <item value="轮循周期" />
       <item value="排班" />
       <item value="Identifier" />
-      <item value="解析" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="206" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
