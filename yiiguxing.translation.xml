@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="不存在" />
+      <item value="高级" />
       <item value="昵称" />
       <item value="责任人" />
       <item value="updater" />
@@ -49,16 +51,14 @@
       <item value="委托" />
       <item value="签收" />
       <item value="批量" />
-      <item value="高级" />
       <item value="字典" />
       <item value="字典管理" />
       <item value="zi" />
-      <item value="工单流程管理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="219" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
