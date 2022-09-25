@@ -1,9 +1,16 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="meta d" />
