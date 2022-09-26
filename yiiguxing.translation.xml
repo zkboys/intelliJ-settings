@@ -2,20 +2,31 @@
   <component name="AppStorage">
     <option name="newTranslationDialogX" value="531" />
     <option name="newTranslationDialogY" value="358" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="域名" />
+      <item value="内置" />
+      <item value="大小写" />
+      <item value="Serves" />
+      <item value="服务" />
+      <item value="environment" />
+      <item value="环境" />
+      <item value="变量" />
+      <item value="云端" />
+      <item value="不存在" />
+      <item value="高级" />
+      <item value="昵称" />
+      <item value="责任人" />
+      <item value="updater" />
+      <item value="菜单栏" />
       <item value="build" />
       <item value="码表" />
       <item value="选项" />
       <item value="下拉项" />
-      <item value="environment" />
-      <item value="环境" />
       <item value="刷新" />
       <item value="fold" />
       <item value="折叠" />
       <item value="收起" />
       <item value="用例" />
-      <item value="责任人" />
       <item value="审核" />
       <item value="快捷请求" />
       <item value="资料" />
@@ -42,29 +53,17 @@
       <item value="入账退款" />
       <item value="别名就是node version" />
       <item value="刷新频次" />
-      <item value="归属" />
-      <item value="委托" />
-      <item value="签收" />
-      <item value="批量" />
-      <item value="高级" />
-      <item value="字典" />
-      <item value="字典管理" />
-      <item value="zi" />
-      <item value="工单流程管理" />
-      <item value="工作流程管理" />
-      <item value="process-manage" />
-      <item value="流程管理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="227" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663550774082" />
+    <option name="lastTrimTime" value="1664006953858" />
   </component>
 </application>
