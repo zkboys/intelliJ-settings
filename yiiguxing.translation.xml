@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="531" />
     <option name="newTranslationDialogY" value="358" />
     <histories>
+      <item value="repository Color" />
       <item value="退出" />
       <item value="transfer" />
       <item value="解散" />
@@ -52,7 +53,6 @@
       <item value="archetype" />
       <item value="原型" />
       <item value="原型文档" />
-      <item value="holidays" />
     </histories>
     <option name="languageScores">
       <map>
