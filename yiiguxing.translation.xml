@@ -3,6 +3,16 @@
     <option name="newTranslationDialogX" value="531" />
     <option name="newTranslationDialogY" value="358" />
     <histories>
+      <item value="repository Color" />
+      <item value="退出" />
+      <item value="transfer" />
+      <item value="解散" />
+      <item value="移交" />
+      <item value="邀请" />
+      <item value="integration" />
+      <item value="测试项目1" />
+      <item value="收藏" />
+      <item value="直达" />
       <item value="域名" />
       <item value="内置" />
       <item value="大小写" />
@@ -43,21 +53,11 @@
       <item value="archetype" />
       <item value="原型" />
       <item value="原型文档" />
-      <item value="holidays" />
-      <item value="多选" />
-      <item value="周报" />
-      <item value="风险" />
-      <item value="动态" />
-      <item value="wechat message url" />
-      <item value="通知" />
-      <item value="入账退款" />
-      <item value="别名就是node version" />
-      <item value="刷新频次" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="235" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
