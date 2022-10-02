@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="531" />
     <option name="newTranslationDialogY" value="358" />
     <histories>
+      <item value="全局变量" />
       <item value="integer" />
       <item value="变量" />
       <item value="占位符" />
@@ -52,7 +53,6 @@
       <item value="post man" />
       <item value="人工审核" />
       <item value="交易审核" />
-      <item value="archetype" />
     </histories>
     <option name="languageScores">
       <map>
