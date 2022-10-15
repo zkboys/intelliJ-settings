@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="枚举" />
       <item value="解密" />
       <item value="识别" />
       <item value="敬请期待" />
@@ -53,19 +54,18 @@
       <item value="客户" />
       <item value="终审" />
       <item value="复审" />
-      <item value="初审" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="246" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665215161250" />
+    <option name="lastTrimTime" value="1665846472363" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
