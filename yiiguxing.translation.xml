@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="dynamic" />
       <item value="polling Time" />
       <item value="instances" />
       <item value="fragment" />
@@ -53,12 +54,11 @@
       <item value="折叠" />
       <item value="收起" />
       <item value="用例" />
-      <item value="审核" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="255" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
