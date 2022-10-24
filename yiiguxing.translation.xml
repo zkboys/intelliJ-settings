@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="藏品" />
       <item value="dynamic" />
       <item value="polling Time" />
       <item value="instances" />
@@ -53,19 +54,18 @@
       <item value="fold" />
       <item value="折叠" />
       <item value="收起" />
-      <item value="用例" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="256" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665734541186" />
+    <option name="lastTrimTime" value="1666602578529" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
