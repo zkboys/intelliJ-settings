@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="`" />
+      <item value="collector" />
+      <item value="收藏者" />
       <item value="金币" />
       <item value="奖品" />
       <item value="抽奖" />
@@ -51,14 +54,11 @@
       <item value="不存在" />
       <item value="高级" />
       <item value="昵称" />
-      <item value="责任人" />
-      <item value="updater" />
-      <item value="菜单栏" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="264" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="266" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
