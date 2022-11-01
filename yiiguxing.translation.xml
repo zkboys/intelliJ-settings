@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="解析" />
       <item value="experimental" />
       <item value="log" />
       <item value="麦穗" />
@@ -53,19 +54,18 @@
       <item value="服务" />
       <item value="environment" />
       <item value="环境" />
-      <item value="云端" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="269" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="270" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666602578529" />
+    <option name="lastTrimTime" value="1667272516664" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
