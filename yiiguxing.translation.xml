@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="领取" />
       <item value="patent" />
       <item value="专利" />
       <item value="解析" />
@@ -53,12 +54,11 @@
       <item value="内置" />
       <item value="大小写" />
       <item value="Serves" />
-      <item value="服务" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="CHINESE" value="274" />
+        <entry key="ENGLISH" value="274" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
