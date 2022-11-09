@@ -4,6 +4,27 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="指令" />
+      <item value="clipboard" />
+      <item value="领取" />
+      <item value="patent" />
+      <item value="专利" />
+      <item value="解析" />
+      <item value="experimental" />
+      <item value="log" />
+      <item value="麦穗" />
+      <item value="`" />
+      <item value="collector" />
+      <item value="收藏者" />
+      <item value="金币" />
+      <item value="奖品" />
+      <item value="抽奖" />
+      <item value="活动" />
+      <item value="永久" />
+      <item value="藏品权益" />
+      <item value="区块链地址" />
+      <item value="进行中" />
+      <item value="藏品" />
       <item value="dynamic" />
       <item value="polling Time" />
       <item value="instances" />
@@ -33,39 +54,18 @@
       <item value="直达" />
       <item value="域名" />
       <item value="内置" />
-      <item value="大小写" />
-      <item value="Serves" />
-      <item value="服务" />
-      <item value="environment" />
-      <item value="环境" />
-      <item value="云端" />
-      <item value="不存在" />
-      <item value="高级" />
-      <item value="昵称" />
-      <item value="责任人" />
-      <item value="updater" />
-      <item value="菜单栏" />
-      <item value="build" />
-      <item value="码表" />
-      <item value="选项" />
-      <item value="下拉项" />
-      <item value="刷新" />
-      <item value="fold" />
-      <item value="折叠" />
-      <item value="收起" />
-      <item value="用例" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="276" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665734541186" />
+    <option name="lastTrimTime" value="1667802938595" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
