@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="expand" />
+      <item value="expend" />
       <item value="倒计时" />
       <item value="指令" />
       <item value="clipboard" />
@@ -52,13 +54,11 @@
       <item value="integration" />
       <item value="测试项目1" />
       <item value="收藏" />
-      <item value="直达" />
-      <item value="域名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="279" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
