@@ -4,8 +4,10 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="agreement" />
+      <item value="protocol" />
       <item value="协议" />
+      <item value="公告" />
+      <item value="agreement" />
       <item value="expand" />
       <item value="expend" />
       <item value="倒计时" />
@@ -52,13 +54,11 @@
       <item value="transfer" />
       <item value="解散" />
       <item value="移交" />
-      <item value="邀请" />
-      <item value="integration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="281" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="284" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
