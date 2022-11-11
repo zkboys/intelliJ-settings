@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="进行中" />
       <item value="trading record" />
       <item value="交易记录" />
       <item value="protocol" />
@@ -32,7 +33,6 @@
       <item value="永久" />
       <item value="藏品权益" />
       <item value="区块链地址" />
-      <item value="进行中" />
       <item value="藏品" />
       <item value="dynamic" />
       <item value="polling Time" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="287" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
