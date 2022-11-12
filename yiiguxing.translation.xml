@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="账单" />
       <item value="进行中" />
       <item value="trading record" />
       <item value="交易记录" />
@@ -53,12 +54,11 @@
       <item value="占位符" />
       <item value="repository Color" />
       <item value="退出" />
-      <item value="transfer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="288" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
