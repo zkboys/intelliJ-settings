@@ -4,6 +4,25 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="maks" />
+      <item value="extendable" />
+      <item value="extend" />
+      <item value="jxlib" />
+      <item value="national library" />
+      <item value="library" />
+      <item value="FRANKY" />
+      <item value="usopp" />
+      <item value="Nami" />
+      <item value="luf" />
+      <item value="lufei" />
+      <item value="zorn" />
+      <item value="结行" />
+      <item value="feige" />
+      <item value="碎片" />
+      <item value="tiling" />
+      <item value="tiki" />
+      <item value="lefts" />
+      <item value="rights" />
       <item value="honeybees" />
       <item value="brood" />
       <item value="bullock" />
@@ -35,33 +54,19 @@
       <item value="解析" />
       <item value="experimental" />
       <item value="log" />
-      <item value="麦穗" />
-      <item value="`" />
-      <item value="collector" />
-      <item value="收藏者" />
-      <item value="金币" />
-      <item value="奖品" />
-      <item value="抽奖" />
-      <item value="活动" />
-      <item value="永久" />
-      <item value="藏品权益" />
-      <item value="区块链地址" />
-      <item value="藏品" />
-      <item value="dynamic" />
-      <item value="polling Time" />
-      <item value="instances" />
-      <item value="fragment" />
-      <item value="片段" />
-      <item value="restricted" />
-      <item value="横向" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="297" />
+        <entry key="CHINESE" value="323" />
+        <entry key="ENGLISH" value="310" />
         <entry key="AFRIKAANS" value="2" />
+        <entry key="DANISH" value="1" />
+        <entry key="FILIPINO" value="4" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="4" />
       </map>
     </option>
   </component>
