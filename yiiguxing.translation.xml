@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Vitals" />
+      <item value="performance" />
+      <item value="measuring" />
       <item value="compose" />
       <item value="鉴权" />
       <item value="特性" />
@@ -51,14 +54,11 @@
       <item value="expend" />
       <item value="倒计时" />
       <item value="指令" />
-      <item value="clipboard" />
-      <item value="领取" />
-      <item value="patent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="317" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
