@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="model" />
       <item value="上传文件过大" />
       <item value="fail" />
       <item value="失败" />
@@ -53,12 +54,11 @@
       <item value="账单" />
       <item value="进行中" />
       <item value="trading record" />
-      <item value="交易记录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="338" />
+        <entry key="ENGLISH" value="325" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669083912638" />
+    <option name="lastTrimTime" value="1669541374306" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
