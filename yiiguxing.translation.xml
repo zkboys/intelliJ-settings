@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="收起更多" />
+      <item value="展开更多" />
       <item value="已登录" />
       <item value="public url" />
       <item value="react app base name" />
@@ -52,13 +54,11 @@
       <item value="Batch" />
       <item value="验证" />
       <item value="金额" />
-      <item value="账单" />
-      <item value="进行中" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="344" />
+        <entry key="ENGLISH" value="331" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
