@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="public url" />
+      <item value="react app base name" />
       <item value="您确定要退出登录？" />
       <item value="您好" />
       <item value="Logout" />
@@ -52,13 +54,11 @@
       <item value="账单" />
       <item value="进行中" />
       <item value="trading record" />
-      <item value="交易记录" />
-      <item value="protocol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="328" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
