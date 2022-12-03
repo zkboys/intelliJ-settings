@@ -10,7 +10,6 @@
       <mapping pattern="getConfig" type="AUTO_DETECTED" />
       <mapping pattern="Affix" type="AUTO_DETECTED" />
       <mapping pattern="Modal" type="AUTO_DETECTED" />
-      <removed_mapping ext="conf" type="Nginx Configuration" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="DraggableTabs" type="PLAIN_TEXT" />
@@ -36,6 +35,7 @@
       <mapping ext="lsc" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="Nginx Configuration" />
       <removed_mapping ext="conf" approved="true" type="Nginx Configuration Pro" />
       <removed_mapping ext="wxml" approved="true" type="HTML" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
