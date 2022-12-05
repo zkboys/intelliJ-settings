@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="隐私" />
       <item value="图片验证码" />
       <item value="看不清？点击刷新" />
       <item value="倒计时" />
@@ -53,12 +54,11 @@
       <item value="结行" />
       <item value="feige" />
       <item value="碎片" />
-      <item value="tiling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="348" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669638149332" />
+    <option name="lastTrimTime" value="1670220309826" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
