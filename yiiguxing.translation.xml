@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="赠送" />
       <item value="认证" />
       <item value="隐私" />
       <item value="图片验证码" />
@@ -53,12 +54,11 @@
       <item value="lufei" />
       <item value="zorn" />
       <item value="结行" />
-      <item value="feige" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="363" />
+        <entry key="ENGLISH" value="350" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
