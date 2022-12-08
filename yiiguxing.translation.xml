@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="街道" />
       <item value="receive" />
       <item value="收到" />
       <item value="resive" />
@@ -53,12 +54,11 @@
       <item value="FRANKY" />
       <item value="usopp" />
       <item value="Nami" />
-      <item value="luf" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="CHINESE" value="367" />
+        <entry key="ENGLISH" value="354" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
