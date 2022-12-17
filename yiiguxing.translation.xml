@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="账户" />
+      <item value="法人" />
       <item value="街道" />
       <item value="receive" />
       <item value="收到" />
@@ -52,13 +54,11 @@
       <item value="national library" />
       <item value="library" />
       <item value="FRANKY" />
-      <item value="usopp" />
-      <item value="Nami" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="CHINESE" value="369" />
+        <entry key="ENGLISH" value="356" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1670220309826" />
+    <option name="lastTrimTime" value="1671265355235" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
