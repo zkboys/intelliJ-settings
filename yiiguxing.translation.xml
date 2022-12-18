@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="invalidate" />
       <item value="法人名称" />
       <item value="统一社会信用代码" />
       <item value="联行行号" />
@@ -53,12 +54,11 @@
       <item value="compose" />
       <item value="鉴权" />
       <item value="特性" />
-      <item value="官网" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="CHINESE" value="377" />
+        <entry key="ENGLISH" value="364" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
