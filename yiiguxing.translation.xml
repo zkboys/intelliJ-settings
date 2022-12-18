@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="供应商状态" />
       <item value="账户" />
       <item value="法人" />
       <item value="街道" />
@@ -53,12 +54,11 @@
       <item value="jxlib" />
       <item value="national library" />
       <item value="library" />
-      <item value="FRANKY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="370" />
+        <entry key="ENGLISH" value="357" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
