@@ -32,7 +32,6 @@
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="jex" type="PLAIN_TEXT" />
       <mapping ext="rar" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="lsc" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
