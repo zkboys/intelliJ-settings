@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="折算后" />
       <item value="可用结汇额度为您当前店铺的原始贸易订单金额。" />
       <item value="店铺审核拒绝，请修改店铺信息后再来上传订单" />
       <item value="优化" />
@@ -53,12 +54,11 @@
       <item value="您确定要退出登录？" />
       <item value="您好" />
       <item value="Logout" />
-      <item value="适配" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="384" />
-        <entry key="ENGLISH" value="371" />
+        <entry key="CHINESE" value="385" />
+        <entry key="ENGLISH" value="372" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
