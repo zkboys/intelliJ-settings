@@ -4,6 +4,12 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="5、依据监管要求，订单信息将作为人民币结汇的依据，请保证信息的真实性，否则将影响款项到账。" />
+      <item value="4、审核拒绝的店铺不支持上传订单；" />
+      <item value="3、上传订单的大小请勿超过20 MB，若文件过大请分开上传；" />
+      <item value="2、请正确上传对应店铺180天内的订单，超过180天的订单系统将无法识别；" />
+      <item value="1、请勿增加删除修改模版中表头字段及顺序；" />
+      <item value="上传订单注意事项" />
       <item value="折算后" />
       <item value="可用结汇额度为您当前店铺的原始贸易订单金额。" />
       <item value="店铺审核拒绝，请修改店铺信息后再来上传订单" />
@@ -48,17 +54,11 @@
       <item value="不允许输入空格" />
       <item value="收起更多" />
       <item value="展开更多" />
-      <item value="已登录" />
-      <item value="public url" />
-      <item value="react app base name" />
-      <item value="您确定要退出登录？" />
-      <item value="您好" />
-      <item value="Logout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="385" />
-        <entry key="ENGLISH" value="372" />
+        <entry key="CHINESE" value="391" />
+        <entry key="ENGLISH" value="378" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
