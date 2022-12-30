@@ -4,11 +4,11 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="最佳实践" />
       <item value="data transmission" />
       <item value="数据传递" />
       <item value="practice" />
       <item value="best practice" />
-      <item value="最佳实践" />
       <item value="语种列表" />
       <item value="domain name" />
       <item value="域名" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="394" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
