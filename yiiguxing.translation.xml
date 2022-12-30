@@ -4,6 +4,20 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="a newline plus indentation" />
+      <item value="More precisely" />
+      <item value="calc will have no effect" />
+      <item value="&quot;calc&quot; operands should be correctly spaced" />
+      <item value="correctly" />
+      <item value="The W3C specifications define the units that can be used with lengths. A unit that is not part of the list of supported ones is likely to be a typo and will be seen as a UI bug by the user." />
+      <item value="specifications" />
+      <item value="The W3C specifications define the valid CSS properties. Only the official and browser-specific properties should be used to get the expected impact in the final rendering." />
+      <item value="CSS properties should be valid" />
+      <item value="The W3C specifications say comments should be defined using ... . The use of is not supported on all browsers and can lead to unexpected results." />
+      <item value="Single line comment syntax should not be used" />
+      <item value="Noncompliant" />
+      <item value="Noncompliant Code Example" />
+      <item value="Arrays in JavaScript have several methods for filtering, mapping, or folding that require a callback. Not having a return statement in such a callback function is most likely a mistake, because processing of the array uses the return value of the callback. If there is no return, callback will implicitly return undefined, which will likely fail." />
       <item value="最佳实践" />
       <item value="data transmission" />
       <item value="数据传递" />
@@ -40,25 +54,11 @@
       <item value="联行行号" />
       <item value="开户支行" />
       <item value="overseas" />
-      <item value="supplier" />
-      <item value="供应商状态" />
-      <item value="账户" />
-      <item value="法人" />
-      <item value="街道" />
-      <item value="receive" />
-      <item value="收到" />
-      <item value="resive" />
-      <item value="赠送" />
-      <item value="认证" />
-      <item value="隐私" />
-      <item value="图片验证码" />
-      <item value="看不清？点击刷新" />
-      <item value="倒计时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="422" />
+        <entry key="ENGLISH" value="409" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
