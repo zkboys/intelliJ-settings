@@ -4,6 +4,35 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Order of instructions in CSS is important: instructions with equal specificity that occur later in the file take the priority. But when a selector with a higher specificity (e.g. p a { color: green;}) comes before the selector it overrides (e.g.: a { color: green;}), the priority is given to the first one. Even if it works properly, this is harder to anticipate the behaviour of the stylesheet while reading as it goes against the principle that the last instruction takes the priority." />
+      <item value="Selectors of lower specificity should come before overriding selectors of higher specificity" />
+      <item value="Otherwise calc() function will be invalid and the entire rule using it will be ignored." />
+      <item value="there should not be any division by zero" />
+      <item value="To perform calculations when specifying a CSS property calc() function can be used. This function takes single expression as parameter. When writing this expression some rules must be respected:" />
+      <item value="Expressions within &quot;calc&quot; should be valid" />
+      <item value="There was a typo which lead the semicolon to be doubled, i.e. ;;." />
+      <item value="It was meant to be replaced by one more property declaration, but this was forgotten." />
+      <item value="Extra semicolons are usually introduced by mistake, for example because:" />
+      <item value="Extra semicolons should be removed" />
+      <item value="Having the import of the same file twice, makes one of them useless. Leaving them in reduces the code’s readability, since their presence can be confusing." />
+      <item value="Duplicate imports should be removed" />
+      <item value="An empty multi-line comment is likely to be a mistake and doesn’t help to improve the readability of the code. For these reasons, it should be removed." />
+      <item value="Multi-line comments should not be empty" />
+      <item value="Having duplicated font names doesn’t help to read the font declaration and may be an indicator the author of the line was not sure how to configure it. This rule raises an issue when font or font-family properties contain a duplicated font name. This rule ignores sass, @less, and var(--custom-property) variable syntaxes." />
+      <item value="Duplicated font names should be removed" />
+      <item value="Strings should not contain new lines" />
+      <item value="Leftover empty blocks are usually introduced by mistake. They are useless and prevent readability of the code. They should be removed or completed with real code." />
+      <item value="Empty blocks should be removed" />
+      <item value="Duplication of selectors might indicate a copy-paste mistake." />
+      <item value="Duplication of selectors might indicate a copy-paste mistake. The rule detects the following kinds of duplications:" />
+      <item value="Selectors should not be duplicated" />
+      <item value="CSS files should not be empty" />
+      <item value="there is no generic font family in the list" />
+      <item value="It’s recommended to always define a generic font family for each declaration of font or font-family to get a less degraded situation than relying on the default browser font. All browsers should implement a list of generic font matching these families: Serif, Sans-serif, cursive, fantasy, Monospace." />
+      <item value="If none of the font names defined in a font or font-family declaration are available on the browser of the user, the browser will display the text using its default font." />
+      <item value="Font declarations should contain at least one generic font family" />
+      <item value="!important within keyframes declarations is completely ignored in some browsers and therefore it should not be used to be consistent among all browsers." />
+      <item value="&quot;!important&quot; should not be used on &quot;keyframes&quot;" />
       <item value="当前平台折算后合计" />
       <item value="shop Platform Available Credit Total" />
       <item value="CSS allows duplicate property names but only the last instance of a duplicated name determines the actual value that will be used for it. Therefore, changing values of other occurrences of a duplicated name will have no effect and may cause misunderstandings and bugs." />
@@ -25,40 +54,11 @@
       <item value="Noncompliant" />
       <item value="A shorthand property defined after a longhand property will completely override the value defined in the longhand property making the longhand one useless. The code should be refactored to consider the longhand property or to remove it completely." />
       <item value="Shorthand properties that override related longhand properties should be avoided" />
-      <item value="HTML, SVG, and MathML define the selectors which can be used in a CSS. A selector that is not part of them is likely to be a typo or a misunderstanding of the CSS syntax." />
-      <item value="Critical" />
-      <item value="Selectors should be known" />
-      <item value="An invalid color definition will by default be interpreted as black, which is likely to have unintended impacts on the expected look and feel of the website." />
-      <item value="Color definitions should be valid" />
-      <item value="Compliant Solution" />
-      <item value="a newline plus indentation" />
-      <item value="More precisely" />
-      <item value="calc will have no effect" />
-      <item value="&quot;calc&quot; operands should be correctly spaced" />
-      <item value="correctly" />
-      <item value="The W3C specifications define the units that can be used with lengths. A unit that is not part of the list of supported ones is likely to be a typo and will be seen as a UI bug by the user." />
-      <item value="specifications" />
-      <item value="The W3C specifications define the valid CSS properties. Only the official and browser-specific properties should be used to get the expected impact in the final rendering." />
-      <item value="CSS properties should be valid" />
-      <item value="The W3C specifications say comments should be defined using ... . The use of is not supported on all browsers and can lead to unexpected results." />
-      <item value="Single line comment syntax should not be used" />
-      <item value="Noncompliant Code Example" />
-      <item value="Arrays in JavaScript have several methods for filtering, mapping, or folding that require a callback. Not having a return statement in such a callback function is most likely a mistake, because processing of the array uses the return value of the callback. If there is no return, callback will implicitly return undefined, which will likely fail." />
-      <item value="最佳实践" />
-      <item value="data transmission" />
-      <item value="数据传递" />
-      <item value="practice" />
-      <item value="best practice" />
-      <item value="语种列表" />
-      <item value="domain name" />
-      <item value="域名" />
-      <item value="business directory" />
-      <item value="企业名录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="450" />
-        <entry key="ENGLISH" value="437" />
+        <entry key="CHINESE" value="479" />
+        <entry key="ENGLISH" value="466" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
