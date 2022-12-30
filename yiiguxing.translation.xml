@@ -4,6 +4,26 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The W3C specifications define the valid pseudo-element selectors. Only the official and browser-specific pseudo-element selectors should be used to get the expected impact in the final rendering." />
+      <item value="Pseudo-element selectors should be valid" />
+      <item value="The W3C specifications define the valid media features. Only the official and browser-specific media features should be used to get the expected impact in the final rendering." />
+      <item value="features" />
+      <item value="The W3C specifications define the valid at-rules. Only the official and browser-specific at-rules should be used to get the expected impact in the final rendering." />
+      <item value="linear-gradient was standardized with CSS3. Before that, it was possible to use different non-standard values to define the gradient’s direction. Because these values are not standard, they are not supported in all browsers and therefore they should no longer be used in order to get the expected gradient in the latest browser versions that support CSS3." />
+      <item value="&quot;linear-gradient&quot; directions should be valid" />
+      <item value="The code should be refactored to consider the longhand property or to remove it completely" />
+      <item value="longhand" />
+      <item value="precising" />
+      <item value="padding is defining a general behaviour and padding-left" />
+      <item value="Compliant" />
+      <item value="Noncompliant" />
+      <item value="A shorthand property defined after a longhand property will completely override the value defined in the longhand property making the longhand one useless. The code should be refactored to consider the longhand property or to remove it completely." />
+      <item value="Shorthand properties that override related longhand properties should be avoided" />
+      <item value="HTML, SVG, and MathML define the selectors which can be used in a CSS. A selector that is not part of them is likely to be a typo or a misunderstanding of the CSS syntax." />
+      <item value="Critical" />
+      <item value="Selectors should be known" />
+      <item value="An invalid color definition will by default be interpreted as black, which is likely to have unintended impacts on the expected look and feel of the website." />
+      <item value="Color definitions should be valid" />
       <item value="Compliant Solution" />
       <item value="a newline plus indentation" />
       <item value="More precisely" />
@@ -16,7 +36,6 @@
       <item value="CSS properties should be valid" />
       <item value="The W3C specifications say comments should be defined using ... . The use of is not supported on all browsers and can lead to unexpected results." />
       <item value="Single line comment syntax should not be used" />
-      <item value="Noncompliant" />
       <item value="Noncompliant Code Example" />
       <item value="Arrays in JavaScript have several methods for filtering, mapping, or folding that require a callback. Not having a return statement in such a callback function is most likely a mistake, because processing of the array uses the return value of the callback. If there is no return, callback will implicitly return undefined, which will likely fail." />
       <item value="最佳实践" />
@@ -35,30 +54,11 @@
       <item value="部分还款" />
       <item value="5、依据监管要求，订单信息将作为人民币结汇的依据，请保证信息的真实性，否则将影响款项到账。" />
       <item value="4、审核拒绝的店铺不支持上传订单；" />
-      <item value="3、上传订单的大小请勿超过20 MB，若文件过大请分开上传；" />
-      <item value="2、请正确上传对应店铺180天内的订单，超过180天的订单系统将无法识别；" />
-      <item value="1、请勿增加删除修改模版中表头字段及顺序；" />
-      <item value="上传订单注意事项" />
-      <item value="折算后" />
-      <item value="可用结汇额度为您当前店铺的原始贸易订单金额。" />
-      <item value="店铺审核拒绝，请修改店铺信息后再来上传订单" />
-      <item value="优化" />
-      <item value="结汇额度优化" />
-      <item value="nano" />
-      <item value="epoch Second" />
-      <item value="差异" />
-      <item value="nonsupport" />
-      <item value="不支持" />
-      <item value="invalidate" />
-      <item value="法人名称" />
-      <item value="统一社会信用代码" />
-      <item value="联行行号" />
-      <item value="开户支行" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="444" />
+        <entry key="ENGLISH" value="431" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
