@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="CSS allows duplicate property names but only the last instance of a duplicated name determines the actual value that will be used for it. Therefore, changing values of other occurrences of a duplicated name will have no effect and may cause misunderstandings and bugs." />
+      <item value="Properties should not be duplicated" />
+      <item value="The W3C specifications define the valid pseudo-class selectors. Only the official and browser-specific pseudo-class selectors should be used to get the expected impact in the final rendering." />
+      <item value="Pseudo-class selectors should be valid" />
       <item value="The W3C specifications define the valid pseudo-element selectors. Only the official and browser-specific pseudo-element selectors should be used to get the expected impact in the final rendering." />
       <item value="Pseudo-element selectors should be valid" />
       <item value="The W3C specifications define the valid media features. Only the official and browser-specific media features should be used to get the expected impact in the final rendering." />
@@ -50,15 +54,11 @@
       <item value="企业名录" />
       <item value="repayment amount" />
       <item value="还款金额" />
-      <item value="partial payment" />
-      <item value="部分还款" />
-      <item value="5、依据监管要求，订单信息将作为人民币结汇的依据，请保证信息的真实性，否则将影响款项到账。" />
-      <item value="4、审核拒绝的店铺不支持上传订单；" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="444" />
-        <entry key="ENGLISH" value="431" />
+        <entry key="CHINESE" value="448" />
+        <entry key="ENGLISH" value="435" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
