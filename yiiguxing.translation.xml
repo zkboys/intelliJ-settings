@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Compliant Solution" />
       <item value="a newline plus indentation" />
       <item value="More precisely" />
       <item value="calc will have no effect" />
@@ -53,12 +54,11 @@
       <item value="统一社会信用代码" />
       <item value="联行行号" />
       <item value="开户支行" />
-      <item value="overseas" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="423" />
+        <entry key="ENGLISH" value="410" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
