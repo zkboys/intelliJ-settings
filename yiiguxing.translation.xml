@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="You cannot set a form field before rendering a field associated with the value" />
       <item value="collection Currency" />
       <item value="Order of instructions in CSS is important: instructions with equal specificity that occur later in the file take the priority. But when a selector with a higher specificity (e.g. p a { color: green;}) comes before the selector it overrides (e.g.: a { color: green;}), the priority is given to the first one. Even if it works properly, this is harder to anticipate the behaviour of the stylesheet while reading as it goes against the principle that the last instruction takes the priority." />
       <item value="Selectors of lower specificity should come before overriding selectors of higher specificity" />
@@ -53,12 +54,11 @@
       <item value="padding is defining a general behaviour and padding-left" />
       <item value="Compliant" />
       <item value="Noncompliant" />
-      <item value="A shorthand property defined after a longhand property will completely override the value defined in the longhand property making the longhand one useless. The code should be refactored to consider the longhand property or to remove it completely." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="480" />
-        <entry key="ENGLISH" value="467" />
+        <entry key="CHINESE" value="481" />
+        <entry key="ENGLISH" value="468" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
