@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="358" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="intermediate" />
       <item value="compatible" />
       <item value="助手" />
       <item value="企业名录查询管理" />
@@ -53,12 +54,11 @@
       <item value="Pseudo-element selectors should be valid" />
       <item value="The W3C specifications define the valid media features. Only the official and browser-specific media features should be used to get the expected impact in the final rendering." />
       <item value="features" />
-      <item value="The W3C specifications define the valid at-rules. Only the official and browser-specific at-rules should be used to get the expected impact in the final rendering." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="491" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="CHINESE" value="492" />
+        <entry key="ENGLISH" value="479" />
         <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FILIPINO" value="4" />
