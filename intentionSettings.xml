@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/Introduce local variable" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Remove export" />
   </component>
 </application>
